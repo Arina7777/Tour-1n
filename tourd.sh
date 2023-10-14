@@ -9,7 +9,7 @@
 # Run this file
 
 ```
-bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/Arina7777/Tour-1n/blob/main/tourd.sh)" ; source ~/.bashrc
+bash -ic "$(wget -4qO- -o- raw.githubusercontent.com/Arina7777/Tour-1n/blob/master/tourd.sh)" ; source ~/.bashrc
 ```
 
 '
